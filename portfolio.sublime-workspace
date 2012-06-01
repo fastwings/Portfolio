@@ -1,0 +1,455 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"construct	construct"
+			],
+			[
+				"cookie",
+				"Cookies"
+			],
+			[
+				"ex",
+				"express-subdomain-handler"
+			],
+			[
+				"expre",
+				"express-bundle"
+			],
+			[
+				"u",
+				"username"
+			],
+			[
+				"data",
+				"database"
+			],
+			[
+				"po",
+				"port"
+			],
+			[
+				"Is",
+				"isValid"
+			],
+			[
+				"con",
+				"console.log();"
+			],
+			[
+				"re",
+				"ready: document ready - jQuery"
+			],
+			[
+				"text",
+				"path.basename(path, ext);"
+			],
+			[
+				"v",
+				"vendor/"
+			],
+			[
+				"js",
+				"toJSON"
+			],
+			[
+				"col",
+				"color: color: hex"
+			],
+			[
+				"ba",
+				"background: background-color: hex"
+			],
+			[
+				"defOtions",
+				"child_process.fork(modulePath, args, options);"
+			],
+			[
+				"e",
+				"extend"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/libs/Portfolio/Portfolio.js",
+			"settings":
+			{
+				"buffer_size": 351,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Nodejs/Nodejs.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"git",
+				"GitHub: Private Gist from Selection"
+			],
+			[
+				"Package Control:in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"node",
+				"Nodejs::User File Settings"
+			],
+			[
+				"n",
+				"Nodejs::Build Completions"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: g",
+				"Package Control: Install Package"
+			],
+			[
+				"to",
+				"Todo: List All"
+			],
+			[
+				"",
+				"Bookmarks: Select Next"
+			],
+			[
+				"Package Control: t",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: is",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 104.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/sivan/SkyDrive/myportfolio_site/js/libs/Portfolio/Main.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/frontend/web/server.js",
+		"/Users/sivan/appTest/server.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/frontend/web/config/environment.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/frontend/web/config/routes.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Backend/backoffice/web/startApplication.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/frontend/web/startApplication.js",
+		"/Users/sivan/appTest/Testing/config/environment.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways 2/test/app/controllers/admin_controller.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/SystemWeb/app.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/SystemWeb/node_modules/express-controllers-new/examples/basic/controllers/pages.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/SystemWeb/config/application.json",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/SystemWeb/app/controllers/admin.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/SystemWeb/bootstrc.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/frontend/app/app.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/frontend/app/controllers/calculator.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/frontend/app/controllers/home.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways 2/test/server.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways 2/test/config/routes.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways 2/test/public/index.html",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/SystemWeb/bundle/frontend/controllers/default.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/SystemWeb/bundle/frontend/controllers/admin.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/SystemWeb/package.json",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/SystemWeb/config/databases.json",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/app/controllers/admin_controller.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/SystemWeb/bundle/frontend/controllers/admin-controller.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/SystemWeb/core.js",
+		"/Users/sivan/.Trash/config/environment.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/config/routes.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/package.json",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/server.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/app/models/UserSites.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/app/models/Users.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/SystemWebfront/bootstrc.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/supervisord.conf",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/SystemWeb/db/schema.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/SystemWeb/config/cookie.json",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/SystemWeb/config/errors.json",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/SystemWeb/config/tokenSystem.json",
+		"/Users/sivan/.Trash/config/extensions.json",
+		"/Users/sivan/.Trash/config/errors.json",
+		"/Users/sivan/.Trash/config/socketConfig.json",
+		"/Users/sivan/.Trash/config/tokenSystem.json",
+		"/Users/sivan/.Trash/config/cookies.json",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/SystemWeb/config/config.json",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/SystemWeb/config/databases.yaml",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/SystemWeb/config/config.yaml",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/SystemWeb/config/application.yaml",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/dotcloud.yml",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/SystemWebfront/app.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/SystemWebfront/error-handler.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/SystemWebfront/config/databases.yaml",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/SystemWebfront/config/application.yaml",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/SystemWebfront/config/config.yaml",
+		"/Users/sivan/.Trash/config/database.json",
+		"/Users/sivan/.Trash/db/schema.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/SystemWebfront/db/schema.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/SystemWebfront/config/databases.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/SystemWeb/error-handler.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/SystemWeb/settings.js",
+		"/Users/sivan/.Trash/package.json",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/node_modules/railway/lib/controller.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/bundle/siteService/controllers/admin_controller.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/startApplication.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/config/environment.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Testing/package.json",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/bundle/siteService/controllers/application_controller.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/db/schema.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/bundle/siteService/models/UserSites.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/frontend-db/dotcloud.yml",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/frontend-db/info.md",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/npmfile.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/mainkey.pub",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/bundle/siteService/models/Users.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/lib/TokenSystem/TokenSystem.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/bundle/siteService/controllers/users_controller.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/config/database.json",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/config/cookies.json",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/config/tokenSystem.json",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/bundle/sockets/readme.md",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/compuntes.list",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/bundle/sockets/commands/TokenRequestCommand.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/bundle/sockets/commandMapper.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/bundle/siteService/controllers/sites_controller.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/bundle/sockets/commands/TokenRequest.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/bundle/sockets/sockets.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/config/socketConfig.json",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/bundle/sockets/commands/TestCommand.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/app/controllers/sites_controller.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/config/socketConfig.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/config/errors.json",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/lib/PMP.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/lib/Collections/TokenObs.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/node_modules/cookies/test/express.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/node_modules/cookies/test/http.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/app/controllers/posts_controller.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/app/models/post.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/config/extensions.json",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/lib/Utills.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/config/cookies.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Testing/lib/vendors/Js.Class/loader.js",
+		"/Users/sivan/appTest/PassMyPassSystems/Frontend/Railways/config/tokenSystem.js",
+		"/Users/sivan/appTest/PMP-frontend/app/models/post.js",
+		"/Users/sivan/appTest/Testing/app/controllers/main.js",
+		"/Users/sivan/appTest/Testing/lib/PMP.js",
+		"/Users/sivan/appTest/Testing/lib/Collections/TokenObs.js",
+		"/Users/sivan/appTest/Testing/lib/TokenSystem/TokenSystem.js",
+		"/Users/sivan/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/sivan/Library/Application Support/Sublime Text 2/Packages/sublime-github/GitHub.sublime-settings",
+		"/Users/sivan/appTest/Testing/lib/Utills.js",
+		"/Users/sivan/Library/Application Support/Sublime Text 2/Packages/Nodejs/Nodejs.sublime-settings",
+		"/Users/sivan/appTest/Testing/lib/TokenSystem/TokenSystem",
+		"/Users/sivan/Library/Application Support/Sublime Text 2/Packages/Nodejs/Readme.md",
+		"/Users/sivan/Library/Application Support/Sublime Text 2/Packages/Nodejs/Default.sublime-commands",
+		"/Users/sivan/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/sivan/Library/Application Support/Sublime Text 2/Packages/Nodejs/Nodejs.sublime-build",
+		"/Users/sivan/appTest/Testing/public/js/app/utills.js",
+		"/Users/sivan/appTest/Testing/lib/Utills",
+		"/Users/sivan/Library/Application Support/Sublime Text 2/Packages/Nodejs/package.json",
+		"/Users/sivan/appTest/Testing/app/vendors/Js.Class/loader.js",
+		"/Users/sivan/appTest/PassMyPassWebsite/Controllers/AccountController.cs",
+		"/Users/sivan/appTest/PassMyPassWebsite/Models/UserRepository.cs",
+		"/Users/sivan/appTest/PassMyPassWebsite/Controllers/HomeController.cs",
+		"/Users/sivan/appTest/PassMyPassWebsite/Models/WebsiteRepository.cs",
+		"/Users/sivan/appTest/Testing/public/js/app/configs/config.js",
+		"/Users/sivan/appTest/Testing/app/views/layouts/application.html.ejs",
+		"/Users/sivan/appTest/Testing/public/index.html",
+		"/Users/sivan/appTest/PmpExtension/AnalyzeService.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"app",
+			"process.env",
+			"require('./error-handler').",
+			"\nvar express = require('express')\n",
+			"echo",
+			"Control",
+			"(); });",
+			"Application.Config.TokenSystem.EncryptPrivateKey",
+			"();",
+			",",
+			"js",
+			"geddy.config",
+			"EventEmitter",
+			"{",
+			" },",
+			"/* ",
+			"Engain",
+			"path",
+			"f2",
+			"(\"./\", [",
+			") {",
+			"this",
+			"	},",
+			"this",
+			"package"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"Application.Config.TokenSystem.get('EncryptPrivateKey'))",
+			"Application.Config.TokenSystem",
+			"Application.Config"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/libs/Portfolio/Portfolio.js",
+					"settings":
+					{
+						"buffer_size": 351,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								346,
+								346
+							]
+						],
+						"settings":
+						{
+							"buffer_scroll_name": "56a46c8d",
+							"function_name_status_row": 19,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 28.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"p",
+				"Package Control Messages"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true
+}
