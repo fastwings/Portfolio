@@ -1,3 +1,5 @@
 www:
-   type: nodejs
-   approot: www
+  type: nodejs
+  approot: www
+  environment:
+    MODE: development
