@@ -166,3 +166,4 @@ pip-log.txt
 #remove sublime project
 .sublime-project
 .sublime-workspace
+*.sublime-workspace
